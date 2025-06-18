@@ -1,0 +1,31 @@
+# Common
+.DS_Store
+**/.DS_Store
+
+# IDEs and tooling
+**/.idea/
+**/.gradle/
+
+# Node backend
+/backend/node_modules/
+/backend/.env
+/backend/dist/
+/backend/coverage/
+/backend/tmp/
+/backend/temp/
+backend/public/
+backend/build/
+
+# Android frontend
+/android-app/local.properties
+/android-app/build/
+android-app/app/build/
+
+# Optional: general patterns
+**/node_modules/
+**/.env
+**/dist/
+**/coverage/
+**/build/
+**/tmp/
+**/temp/
